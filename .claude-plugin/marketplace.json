@@ -1,0 +1,14 @@
+{
+  "name": "claude-skills-plugins",
+  "owner": { "name": "rana3128" },
+  "metadata": { "description": "Personal Claude Code skills and plugins", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "video-gen",
+      "source": "./plugins/video-gen",
+      "description": "Make animated, voiced portrait YouTube Shorts (kinetic design, Kokoro TTS, word-synced scenes)",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}

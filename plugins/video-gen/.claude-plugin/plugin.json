@@ -1,0 +1,7 @@
+{
+  "name": "video-gen",
+  "version": "1.0.0",
+  "description": "Make animated, voiced portrait YouTube Shorts from a study guide: split into parts, narrate, build kinetic word-synced scenes, voice with Kokoro TTS, render MP4.",
+  "author": { "name": "rana3128" },
+  "keywords": ["video", "shorts", "tts", "kokoro", "skia", "education"]
+}
